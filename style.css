@@ -15,7 +15,17 @@ a{
 img{
     width: 300px;
 }
+figcaption{
+    color: brown;
+}
 div{
     border: solid black 5px;
     width: 300px;
+}
+
+footer{
+    background-color: rgb(40, 39, 39);
+}
+li{
+    color: brown;
 }
